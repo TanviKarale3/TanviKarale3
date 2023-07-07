@@ -173,7 +173,7 @@ Maharshtra India
 8.[ Function with arbitrary argument](https://github.com/TanviKarale3/TanviKarale3/commit/4f5b35e9a49b95e396820969aaf667e4b00e012d )
 ## 🔗 Links
 
-(https://www.linkedin.com/in/tanvi-karale-1009a9251)
+* [LinkIdIn](https://www.linkedin.com/in/tanvi-karale-1009a9251)
 
 
 ## 🛠 Skills
